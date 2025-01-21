@@ -1,14 +1,10 @@
+Welcome to **hoar-tech** - my personal GitHub repository! Here you will find example code for current and past courses.
 
-Joanne Hoar, M.Sc. (she/her)
+Joanne Hoar, M.Sc.
 
 INSTRUCTOR, SCHOOL OF TECHNOLOGY
 
-
-
-Visit robertsoncollege.ca or follow us
-
-https://www.facebook.com/OfficialRobertsonCollege/  https://x.com/robertsoncolleg?lang=en  https://www.instagram.com/robertsoncollege/?hl=en
-
+[![Roberertson College](https://www.robertsoncollege.com/site-content/themes/robertson/img/svg-sprite/logo.svg)](http://www.robertsoncollege.com/)
 
 At Robertson College, we acknowledge that we work and study:
 
