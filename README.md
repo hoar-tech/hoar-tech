@@ -1,4 +1,4 @@
-Welcome to **hoar-tech** - my personal GitHub repository! Here you will find example code for current and past courses.
+Welcome to **joanne-hoar** - my personal GitHub repository! Here you will find example code for current and past courses.
 
 Joanne Hoar, M.Sc.
 
@@ -17,6 +17,6 @@ In Edmonton on Treaty 6 territory, a traditional gathering place, traveling rout
 In Calgary on the traditional territories of the Blackfoot Confederacy (Siksika, Kainai, Piikani), the Tsuut’ina, the Îyâxe Nakoda Nations, the Métis Nation (Region 3), and all people who make their homes in the Treaty 7 region of Southern Alberta.
 
 <!---
-hoar-tech/hoar-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+joanne-hoar/joanne-hoar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
